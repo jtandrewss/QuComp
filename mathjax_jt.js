@@ -3,7 +3,6 @@ window.MathJax = {
       inlineMath: [['$', '$'], ['\\(', '\\)']]
     }
   };
-  
   function wrt (pstring) {
       document.write(pstring);
   }
